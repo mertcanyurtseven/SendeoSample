@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sendeo Sample Suite">
+    <test name="Progress Bar Test">
+        <classes>
+            <class name="tests.ProgressBarTest"/>
+            <class name="tests.SignUpTest"/>
+            <class name="tests.WebViewTest"/>
+            <class name="tests.ExceptionTest"/>
+        </classes>
+    </test> <!-- Test -->
+<!--    <test name="Sign Up Tests">-->
+<!--        <classes>-->
+<!--            -->
+<!--        </classes>-->
+<!--    </test> &lt;!&ndash; Test &ndash;&gt;-->
+<!--    <test name="WebView Test">-->
+<!--        <classes>-->
+<!--           -->
+<!--        </classes>-->
+<!--    </test> &lt;!&ndash; Test &ndash;&gt;-->
+<!--    <test name="Exception Tests">-->
+<!--        <classes>-->
+<!--            -->
+<!--        </classes>-->
+<!--    </test> &lt;!&ndash; Test &ndash;&gt;-->
+</suite> <!-- Suite -->
